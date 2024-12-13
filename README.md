@@ -67,5 +67,5 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Notes Installation :
 
-Lakukan Ekstrak pada public.rar dan vendor.rar, setelah itu dilanjutkan dengan setting database mysql sesuaikan dengan nama pada .env
-Jalankan dengan php artisan serve atau bisa dengan melalui Laragon
+Lakukan Ekstrak pada public.rar dan vendor.rar, setelah itu dilanjutkan dengan setting database mysql sesuaikan dengan nama pada file .env dan pastikan lakukan perintah php artisan migrate.
+Jalankan dengan php artisan serve atau bisa dengan melalui Laragon.
