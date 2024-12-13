@@ -64,3 +64,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Notes Installation :
+
+Lakukan Ekstrak pada public.rar dan vendor.rar, setelah itu dilanjutkan dengan setting database mysql sesuaikan dengan nama pada .env
+Jalankan dengan php artisan serve atau bisa dengan melalui Laragon
